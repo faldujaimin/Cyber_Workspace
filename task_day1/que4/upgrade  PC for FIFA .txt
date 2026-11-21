@@ -1,0 +1,16 @@
+
+1. GPU (Graphics Processing Unit) — Top Priority
+
+• Why: Modern football games feature detailed stadium lighting, realistic grass textures, sweat/cloth physics, and large crowd animations. Upgrading to a capable dedicated graphics card ensures smooth, high frame rates (60 FPS or higher) at 1080p or 1440p without having to turn down visual quality.
+
+2. RAM (Random Access Memory) — Best Value Upgrade
+
+• Why: Newer EA SPORTS FC titles require at least 8 GB of RAM just to launch, and 12–16 GB is recommended for smooth play. Upgrading to 16 GB of dual-channel RAM prevents annoying micro-stutters during fast counterattacks, replays, and cutscenes—especially if you have background apps like Discord or a browser open.
+
+3. CPU (Central Processing Unit)
+
+• Why: The CPU calculates real-time ball physics, player collisions, and the AI behavior of all 22 players on the pitch simultaneously. If your processor is several generations old, upgrading it prevents bottlenecks so your new GPU can deliver consistent frame rates during crowded penalty-box scrambles.
+
+4. Storage (SSD Upgrade)
+
+• Why: Installing the game on a SATA or NVMe SSD (if you are currently using a traditional HDD) drastically cuts down loading screens between Career Mode menus, Ultimate Team packs, and match kickoffs, while also eliminating texture pop-in.

@@ -1,0 +1,7 @@
+The CPU, RAM, and GPU work together as the brain, short-term workspace, and visual engine to run games like PUBG or Free Fire smoothly on a PC.
+
+	• CPU (Central Processing Unit): The CPU acts as the game's brain, handling core logic like bullet 	physics, player movement, and enemy AI behavior. In battle royale games with up to 100 players, a 	fast CPU keeps track of every player's actions and updates the game state in real time without lag.
+
+	• RAM (Random Access Memory): RAM serves as the PC's high-speed short-term memory, temporarily 	holding active game assets like map textures, character models, and sound effects so the CPU and GPU 	can access them instantly. Having enough RAM prevents stuttering and frame drops when you quickly 	turn around or enter new areas of the map.
+
+	• GPU (Graphics Processing Unit): The GPU is the visual powerhouse that renders all the 3D graphics, 	lighting, shadows, and special effects you see on your screen. A capable GPU ensures high frame 	rates (FPS) and crisp visuals, making it much easier to spot distant enemies and aim accurately 	during intense gunfights.

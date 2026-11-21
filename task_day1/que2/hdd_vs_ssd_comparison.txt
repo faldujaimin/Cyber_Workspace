@@ -1,0 +1,23 @@
+HDD vs. SSD Storage Comparison
+
+
+SSDs are significantly faster and more durable than HDDs, while HDDs remain useful for high-capacity,
+budget-friendly bulk storage.
+
++--------------------+-----------------------------------------------+-----------------------------------------------+
+| Feature            | HDD (Hard Disk Drive)                         | SSD (Solid State Drive)                       |
++====================+===============================================+===============================================+
+| Speed              | Slower: Relies on spinning magnetic platters  | Much Faster: Uses flash memory with no moving |
+|                    | and a mechanical read/write arm, resulting in | parts, allowing near-instant boot times and   |
+|                    | slower boot times and file transfers          | rapid data access (500 MB/s for SATA; up to   |
+|                    | (typically 80–160 MB/s).                      | 7,000+ MB/s for NVMe).                        |
++--------------------+-----------------------------------------------+-----------------------------------------------+ 
+| Durability         | Less Durable: Contains fragile moving         | Highly Durable: Has no moving parts, making   |
+|                    | mechanical parts that can easily break or     | it resistant to physical shock, drops, and    |
+|                    | lose data if dropped or bumped while running. | vibrations.                                   |
++--------------------+-----------------------------------------------+-----------------------------------------------+
+| Typical Use Cases  | Bulk media storage (movies, photos, backups), | Operating systems, modern laptops, gaming     |
+|                    | surveillance systems, and budget desktop PCs  | PCs/consoles, and video editing workstations  |
+|                    | where large capacity per rupee/dollar matters | where fast load times are critical.           |
+|                    | most.                                         |                                               |
++--------------------+-----------------------------------------------+-----------------------------------------------+
