@@ -1,0 +1,7 @@
+How They Work Together When You Open Spotify
+
+1. Input Signal (Chipset): When you click the Spotify icon, the chipset detects the signal from your USB mouse and routes that request straight to the CPU.
+
+2. Loading the App (CPU + Chipset): The CPU receives the command and asks the chipset to fetch Spotify's program files from your SSD or HDD. The chipset pulls those files from storage and sends them into RAM so the CPU can read them quickly.
+
+3. Streaming & Playback (CPU + Chipset): Once the app opens, the CPU processes the user interface and decodes the incoming audio stream, while the chipset simultaneously manages your internet connection (pulling the song data from Spotify's servers) and routes the decoded audio signal out to your speakers or headphones.

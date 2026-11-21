@@ -1,0 +1,19 @@
+POPULAR DESKTOP CPU SOCKETS & COMPATIBLE PROCESSORS
+====================================================================================================
+
++-------------+--------------------------------+----------------------------------+---------------------------+
+| CPU Socket  | Brand & Pin Style              | Supported Processor Generations  | Example Compatible CPU    |
++-------------+--------------------------------+----------------------------------+---------------------------+
+| Socket AM5  | AMD (LGA - pins on board)      | Ryzen 7000, 8000, & 9000 Series  | AMD Ryzen 7 7800X3D       |
+|             |                                | (DDR5 memory only)               |                           |
++-------------+--------------------------------+----------------------------------+---------------------------+
+| Socket AM4  | AMD (PGA - pins on CPU)        | Ryzen 1000 through 5000 Series   | AMD Ryzen 5 5600X         |
+|             |                                | (DDR4 memory)                    |                           |
++-------------+--------------------------------+----------------------------------+---------------------------+
+| LGA 1700    | Intel (LGA - pins on board)    | 12th, 13th, & 14th Gen Core      | Intel Core i7-14700K      |
+|             |                                | (DDR4 or DDR5 memory)            |                           |
++-------------+--------------------------------+----------------------------------+---------------------------+
+
+Additional Notes:
+- Intel LGA 1851 is Intel's newer desktop socket, supporting models like the Intel Core Ultra 7 265K.
+- Intel LGA 1200 remains common in older budget builds, supporting models like the Intel Core i5-11400F.
